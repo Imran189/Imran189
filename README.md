@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Imran
 #### Full-Satck Web Application Developer 
-![Full-Satck Web Application Developer ]
+
 
 I remember when I first started reading programming books years ago. I would get so frustrated because I just wanted to build these cool websites like the ones you see online.
 But when I Started to learn coding it was really fun. And Now I can make the web sites that I was dreamed before. Learning Full-Stack was not to much easy, even I am learning every day and enjoying.
