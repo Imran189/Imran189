@@ -1,6 +1,7 @@
 👋 Hi, I'm Imran Hosen
 📊 Data Analyst | Insights Enthusiast
 🌐 Passionate about transforming data into stories, trends, and actionable insights!
+💻 Former Web Developer with a knack for clean, efficient code (still love geeking out over HTML, CSS,JS, LARAVEL and VUE JS).
 
 💻 Skills:
 
